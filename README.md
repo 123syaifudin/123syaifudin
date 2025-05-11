@@ -24,11 +24,9 @@
 ---
 
 ## 🚀 Tentang Saya
-
-🔭 Saat ini saya sedang fokus pada:  
 &nbsp;&nbsp;&nbsp;&nbsp;• 👷 I am an architect 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🌱 Vibe Coding, Naturally curious and driven by impact.
-&nbsp;&nbsp;&nbsp;&nbsp;• I build web products assisted by AI forces, Keeping Up with the Times.
+&nbsp;&nbsp;&nbsp;&nbsp;• 🌱 I build web products assisted by AI forces, Keeping Up with the Times.
 
 ---
 
