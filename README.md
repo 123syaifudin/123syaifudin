@@ -32,16 +32,26 @@
 
 ## 📈 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=123syaifudin&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko&hide_border=true" alt="GitHub Stats" width="600px" height="200px" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=123syaifudin&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko&hide_border=true" alt="GitHub Stats" width="400px" />
+<br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123syaifudin&langs_count=6&layout=compact&theme=merko&hide_border=true" alt="Top Languages" width="400px" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123syaifudin&langs_count=6&layout=compact&theme=merko&hide_border=true" alt="Top Languages" width="600px" height="200px" />
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123syaifudin&theme=merko&hide_border=true" alt="GitHub Streak Stats" width="400px" />
+<br/>
 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=123syaifudin&theme=merko&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123syaifudin&theme=merko&hide_border=true" alt="GitHub Streak Stats" width="600px" height="200px" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=123syaifudin&theme=merko&hide_border=true" alt="GitHub Activity Graph" width="600px" height="200px" />
 </div>
 
 
