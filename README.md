@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm 👋 Mister X</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=🌱+I'm+someone+who+simply+enjoys+learning.;I+don't+dive+deep+into+coding+but+I+know+just+enough+and+genuinely+like+it." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=🌱+I+am+a+person+who+loves+to+learn.;I+am+not+into+coding,+but+I+really+enjoy+it." />
 </p>
+
 
 
 <p align="center">
