@@ -31,21 +31,18 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123syaifudin&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko&hide_border=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123syaifudin&langs_count=6&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123syaifudin&theme=merko&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=123syaifudin&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko&hide_border=true" alt="GitHub Stats" width="400px" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=123syaifudin&theme=merko&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123syaifudin&langs_count=6&layout=compact&theme=merko&hide_border=true" alt="Top Languages" width="400px" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123syaifudin&theme=merko&hide_border=true" alt="GitHub Streak Stats" width="400px" />
+
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=123syaifudin&theme=merko&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+
+</div>
 
 
 ---
