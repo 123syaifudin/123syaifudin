@@ -23,11 +23,11 @@
 
 ## 🚀 Tentang Saya
 
-🌱 Saya seorang developer yang suka membangun produk web yang berdampak dan efisien.  
+🌱 I am a person who loves to learn. I am not into coding, but I really enjoy it.
 🔭 Saat ini saya sedang fokus pada:  
-&nbsp;&nbsp;&nbsp;&nbsp;• Web app dengan arsitektur modern  
-&nbsp;&nbsp;&nbsp;&nbsp;• Otomatisasi & API development  
-&nbsp;&nbsp;&nbsp;&nbsp;• Open source collaboration  
+&nbsp;&nbsp;&nbsp;&nbsp;• 👷 I am an architect 
+&nbsp;&nbsp;&nbsp;&nbsp;• 🌱 Vibe Coding, Naturally curious and driven by impact.
+&nbsp;&nbsp;&nbsp;&nbsp;• I build web products assisted by AI forces, Keeping Up with the Times.
 
 ---
 
