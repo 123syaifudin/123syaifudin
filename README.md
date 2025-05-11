@@ -32,28 +32,25 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123syaifudin&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko&hide_border=true" alt="GitHub Stats" width="600px" height="200px" />
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+  <div style="width: 600px; height: 250px; border: 1px solid #333; border-radius: 10px; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api?username=123syaifudin&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko&hide_border=true" alt="GitHub Stats" width="100%" height="100%" />
+  </div>
+
+  <div style="width: 600px; height: 250px; border: 1px solid #333; border-radius: 10px; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123syaifudin&langs_count=6&layout=compact&theme=merko&hide_border=true" alt="Top Languages" width="100%" height="100%" />
+  </div>
+
+  <div style="width: 600px; height: 250px; border: 1px solid #333; border-radius: 10px; overflow: hidden;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=123syaifudin&theme=merko&hide_border=true" alt="GitHub Streak Stats" width="100%" height="100%" />
+  </div>
+
+  <div style="width: 600px; height: 250px; border: 1px solid #333; border-radius: 10px; overflow: hidden;">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=123syaifudin&theme=merko&hide_border=true" alt="GitHub Activity Graph" width="100%" height="100%" />
+  </div>
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123syaifudin&langs_count=6&layout=compact&theme=merko&hide_border=true" alt="Top Languages" width="600px" height="200px" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123syaifudin&theme=merko&hide_border=true" alt="GitHub Streak Stats" width="600px" height="200px" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=123syaifudin&theme=merko&hide_border=true" alt="GitHub Activity Graph" width="600px" height="200px" />
-</div>
-
 
 ---
 
