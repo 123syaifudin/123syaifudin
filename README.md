@@ -59,6 +59,93 @@
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>📈 Alat yang Digunakan</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+
+    header, footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #222;
+      color: #fff;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    .tool-card {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      padding: 20px;
+      margin-bottom: 20px;
+      transition: transform 0.2s ease;
+    }
+
+    .tool-card:hover {
+      transform: translateY(-5px);
+    }
+
+    .tool-title {
+      font-size: 1.5em;
+      margin-bottom: 10px;
+    }
+
+    .tool-desc {
+      font-size: 1em;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>📈 Alat</h1>
+    <p>Beberapa alat yang saya gunakan dalam proses pengembangan web.</p>
+  </header>
+
+  <main>
+    <div class="tool-card">
+      <div class="tool-title">💖 Lovable</div>
+      <div class="tool-desc">Desain UI/UX yang menyenangkan dan fokus pada estetika serta kenyamanan pengguna.</div>
+    </div>
+
+    <div class="tool-card">
+      <div class="tool-title">🧠 Cursor</div>
+      <div class="tool-desc">Editor AI modern yang membantu kamu menulis kode dengan cepat dan efisien.</div>
+    </div>
+
+    <div class="tool-card">
+      <div class="tool-title">🚀 Supabase</div>
+      <div class="tool-desc">Alternatif open source untuk Firebase dengan fitur autentikasi, database, dan API real-time.</div>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2025 Dibuat oleh 123syaifudin</p>
+  </footer>
+
+  <script>
+    console.log("📈 Alat halaman dimuat.");
+  </script>
+
+</body>
+</html>
+---
+
 
 ## 📫 Cara Menghubungi Saya
 
