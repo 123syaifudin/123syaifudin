@@ -25,7 +25,6 @@
 
 ## 🚀 Tentang Saya
 
-🌱 I am a person who loves to learn. I am not into coding, but I really enjoy it.
 🔭 Saat ini saya sedang fokus pada:  
 &nbsp;&nbsp;&nbsp;&nbsp;• 👷 I am an architect 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🌱 Vibe Coding, Naturally curious and driven by impact.
